@@ -7,7 +7,7 @@
 Welcome to my Github page! I am mxdlzg and I am currently finishing my Phd degree at ECNU!  
  
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
- 
+
  
 #### 🌱 Things I am currently working on: 
 - Finish PHD Degree  
@@ -21,6 +21,7 @@ Welcome to my Github page! I am mxdlzg and I am currently finishing my Phd degre
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mxdlzg&show_icons=true&hide_border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxdlzg&layout=compact&hide_border=true&langs_count=10" alt="Mxdlzg's Top Langs" width="37%" /> 
 
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
