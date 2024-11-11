@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mxdlzg)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lzgmxd@gmail.com)
  
-Welcome to my Github page! I am mxdlzg and I am currently finishing my Phd degree at ECNU!  
+Welcome to my Github page! I am mxdlzg and I am currently completing my Ph.D. at ECNU.   
  
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
