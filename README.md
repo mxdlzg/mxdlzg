@@ -10,7 +10,7 @@ Welcome to my Github page! I am mxdlzg and I am currently finishing my Phd degre
 
  
 #### 🌱 Things I am currently working on: 
-- Finish PHD Degree  
+- Complete my PHD Degree  
 - Research on Intellectual education, Knowledge Tracing and Social Experiment.
  
 #### :muscle: Things I am challenging myself with:
